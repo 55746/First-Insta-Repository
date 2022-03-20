@@ -1,0 +1,48 @@
+body {
+  background: #d4d4d4;
+  margin: 0;
+}
+div {
+  box-sizing: border-box;
+}
+header {
+  background: white;
+  padding: 10px;
+}
+header h1 {
+  margin: 0;
+}
+.title-text {
+  position: fixed;
+}
+div.inblock {
+  background: white;
+  margin-top: 10px;
+}
+div.post img {
+  width: 100%;
+}
+.div-title {
+  display: inline-block;
+  width: 80%;
+}
+.date {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+  text-align: right;
+  color: gray;
+  margin-left: 326px;
+}
+div.inblock h2,
+div.inblock p {
+  padding: 10px;
+  margin: 0%;
+}
+div.block {
+  width: 600px;
+  margin: auto;
+}
+.div-heading {
+  display: flex;
+}
